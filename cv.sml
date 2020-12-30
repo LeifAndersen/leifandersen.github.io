@@ -229,6 +229,7 @@ software: [{name: "Video"
 (define SCHEME {{Scheme and Functional Programming Workshop}})
 (define PACMPL {{Proceedings of the ACM @PL}})
 (define ICFP {{@IC on @FP}})
+(define OOPSLA {{OOPSLA}})
 (define TOPLAS {{Transactions on @PL and Systems}})
 (define CC {{@IC on Compiler Construction}})
 (define LNCS {{Lecture Notes in @CS}})
